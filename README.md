@@ -20,7 +20,7 @@ Este repositorio contiene los trabajos practicos de la materia Procesamiento de 
 
 # Desafios de Codigo
 ## Vectorizacion 
-Colab: [Vectorizacion](https://github.com/German-22/PNL/main/Desafio_1_German_Poletto.ipynb)
+Colab: [Vectorizacion](https://github.com/German-22/PNL/blob/main/Desafio_1_German_Poletto.ipynb)
 
 ##Word embeddings
 Colab: [Vectorizacion](https://github.com/German-22/PNL/Desafio_1_German_Poletto.ipynb)
