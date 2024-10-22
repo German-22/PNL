@@ -24,16 +24,19 @@ En este desafio se Vectorizaron documentos y medio la similaridad entre estos. P
 Colab: [Vectorizacion](https://github.com/German-22/PNL/blob/main/Desafio_1_German_Poletto.ipynb)
 
 ##Word embeddings
-En este desafio se crean embeddings a partir de un documento
+En este desafio se crean embeddings a partir de un documento y se prueban distintos terminos y se observa su similaridad.
 Colab: [Embeddings](https://github.com/German-22/PNL/blob/main/Desafio_2_German_Poletto%20.ipynb)
 
 ## Modelo de Lenguaje
+En este desafio se entrena una red neuronal basada en unidades recurrentes para implementar un modelo de lenguaje.
 Colab: [Char](https://github.com/German-22/PNL/blob/main/3_modelo_lenguaje_char_German_Poletto.ipynb)
 Colab: [Word](https://github.com/German-22/PNL/blob/main/3_modelo_lenguaje_word_Germam_Poletto.ipynb)
 
 ## Bot_Qa
+En este desafio se contruye un BOT para responder preguntas de un usuario.
 Colab: [Bot](https://github.com/German-22/PNL/blob/main/6_bot_qa_German_Poletto.ipynb)
 
 ##Bert
+En este desafio se implementa un modelo de clasificacion multicategorico para clasificar criticas de los usuarios.
 Colab: [Vectorizacion](https://github.com/German-22/PNL/Desafio_1_German_Poletto.ipynb)
 
