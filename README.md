@@ -30,7 +30,7 @@ Colab: [Char](https://github.com/German-22/PNL/blob/main/3_modelo_lenguaje_char_
 Colab: [Word](https://github.com/German-22/PNL/blob/main/3_modelo_lenguaje_word_Germam_Poletto.ipynb)
 
 ## Bot_Qa
-Colab: [Vectorizacion](https://github.com/German-22/PNL/Desafio_1_German_Poletto.ipynb)
+Colab: [Bot](https://github.com/German-22/PNL/blob/main/6_bot_qa_German_Poletto.ipynb)
 
 ##Bert
 Colab: [Vectorizacion](https://github.com/German-22/PNL/Desafio_1_German_Poletto.ipynb)
