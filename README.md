@@ -20,9 +20,11 @@ Este repositorio contiene los trabajos practicos de la materia Procesamiento de 
 
 # Desafios de Codigo
 ## Vectorizacion 
+En este desafio se Vectorizaron documentos y medio la similaridad entre estos. Por otro lado se entrenaron dos modelos de clasificación Naïve Bayes, Multinomial y ComplementNB y se compararon los resultados.
 Colab: [Vectorizacion](https://github.com/German-22/PNL/blob/main/Desafio_1_German_Poletto.ipynb)
 
 ##Word embeddings
+En este desafio se crean embeddings a partir de un documento
 Colab: [Embeddings](https://github.com/German-22/PNL/blob/main/Desafio_2_German_Poletto%20.ipynb)
 
 ## Modelo de Lenguaje
