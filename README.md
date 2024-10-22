@@ -23,11 +23,11 @@ Este repositorio contiene los trabajos practicos de la materia Procesamiento de 
 Colab: [Vectorizacion](https://github.com/German-22/PNL/blob/main/Desafio_1_German_Poletto.ipynb)
 
 ##Word embeddings
-Colab: [Vectorizacion](https://github.com/German-22/PNL/Desafio_1_German_Poletto.ipynb)
+Colab: [Embeddings](https://github.com/German-22/PNL/blob/main/Desafio_2_German_Poletto%20.ipynb)
 
 ## Modelo de Lenguaje
-Colab: [Vectorizacion](https://github.com/German-22/PNL/Desafio_1_German_Poletto.ipynb)
-Colab: [Vectorizacion](https://github.com/German-22/PNL/Desafio_1_German_Poletto.ipynb)
+Colab: [Char](https://github.com/German-22/PNL/blob/main/3_modelo_lenguaje_char_German_Poletto.ipynb)
+Colab: [Word](https://github.com/German-22/PNL/blob/main/3_modelo_lenguaje_word_Germam_Poletto.ipynb)
 
 ## Bot_Qa
 Colab: [Vectorizacion](https://github.com/German-22/PNL/Desafio_1_German_Poletto.ipynb)
