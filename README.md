@@ -38,5 +38,5 @@ Colab: [Bot](https://github.com/German-22/PNL/blob/main/6_bot_qa_German_Poletto.
 
 ## Bert_Sentiment_Analysis
 En este desafio se implementa un modelo de clasificacion multicategorico para clasificar criticas de los usuarios.\
-Colab: [Vectorizacion](https://github.com/German-22/PNL/Desafio_1_German_Poletto.ipynb)
+Colab: [Sentiment_Analysis](https://github.com/German-22/PNL/blob/main/7d_bert_sentiment_analysis_multicategorial.ipynb)
 
